@@ -1,1 +1,1 @@
-# LookImageAndText
+# 仿淘宝页面向右滑动加载图文详情
